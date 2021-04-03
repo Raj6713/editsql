@@ -4,3 +4,4 @@ data/*
 logs_spider_editsql/*
 processed_data_spider_removefrom/*
 .venv/
+.vscode/
