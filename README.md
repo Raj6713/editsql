@@ -1,3 +1,5 @@
+# Local copy for editsql.
+
 # EditSQL for [Spider](https://yale-lily.github.io/spider), [SParC](https://yale-lily.github.io/sparc), [CoSQL](https://yale-lily.github.io/cosql)
 
 This is a pytorch implementation of the CD-Seq2Seq baseline and the EditSQL model in the following papers
